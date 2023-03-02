@@ -640,7 +640,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .footer-soc-list {
